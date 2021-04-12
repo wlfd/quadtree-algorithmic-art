@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+.vscode/
+.history/
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
