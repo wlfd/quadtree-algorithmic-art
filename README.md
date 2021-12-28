@@ -1,2 +1,2 @@
-# pixelated-algorithmic-art
-use statistical statistics mechanism and space partitioning, shifty-quadtrees, to create algorithmic art
+# quadtree-algorithmic-art
+use statistical mechanism, space partitioning, and shifty-quadtrees to create pixelated algorithmic art
